@@ -1,10 +1,3 @@
-/**
- * Homework 2 Part 1 - Team 13
- * Name: Mario Carrillo
- * uni: mc5132
- * version 1: 02/09/23          
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "iterative.h"
