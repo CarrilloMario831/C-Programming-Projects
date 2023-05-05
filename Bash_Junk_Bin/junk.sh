@@ -1,12 +1,5 @@
 #!/bin/bash
 
-#################################
-# Homework 1 - Team 13
-# Name: Mario Carrillo
-# uni: mc5132
-# version: 1.0 January 31, 2022
-#################################
-
 num_flag=0 #count the number of distinct flags, max 3
 help_display_flag=0 #initialize the flags to be like boolean values. In this case, they are set to false
 list_junk_files_flag=0
